@@ -1,0 +1,4 @@
+1. copy this folder to C:/xampp/htdocs
+2. open your local wb service
+3. click start Apache
+4. open web browser then type this url : http://localhost/name-sorter/
